@@ -1,0 +1,16 @@
+# 기존 예제 환경과 호환되는 범위만 지정하며 강제 다운그레이드하지 않습니다.
+crewai[openai]>=1.15,<2.0
+python-dotenv>=1.0
+pydantic>=2.10,<3.0
+pdfplumber>=0.11,<1.0
+pyhwp==0.1b15
+chromadb>=1.0,<2.0
+rich>=13.0,<15.0
+
+# 노트북/표 출력용
+jupyter>=1.0
+nbformat>=5.10
+pandas>=2.0
+
+# 테스트용
+pytest>=8.0
