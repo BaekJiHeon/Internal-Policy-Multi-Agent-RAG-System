@@ -377,7 +377,6 @@ Internal Policy Multi-Agent RAG System/
 ├── README.md                         # 프로젝트 통합 문서
 ├── .gitignore                        # API 키, DB, 캐시 등 Git 제외
 ├── Presentation ppt.pdf              # 프로젝트 발표 자료
-├── Roles_by_Team.txt                 # 팀원별 역할 정의
 └── Archive/
     ├── rule/                          # 실제 사내 규정 HWP/HWPX 5개
     └── internal_policy_rag_crewai/    # 실행 가능한 Python 프로젝트
@@ -819,14 +818,11 @@ RAG를 다음 항목으로 비교할 수 있습니다.
 | 조윤호 (P098) | Multi-Agent / 오케스트레이션 | CrewAI Agent, 프롬프트, 라우팅, 전체 파이프라인 |
 | 신동민 (P079) | Trust / 검증·데모 | Python guardrail, 테스트·평가, CLI·데모, 발표 |
 
-세부 역할은 [`Roles_by_Team.txt`](./Roles_by_Team.txt)를 참고하세요.
-
 ---
 
 ## 23. 프로젝트 문서
 
 - [발표 자료](./Presentation%20ppt.pdf)
-- [팀 역할](./Roles_by_Team.txt)
 - [내부 프로젝트 README](./Archive/internal_policy_rag_crewai/README.md)
 - [아키텍처 상세](./Archive/internal_policy_rag_crewai/docs/architecture.md)
 - [설치와 실행](./Archive/internal_policy_rag_crewai/docs/getting-started.md)
